@@ -2,6 +2,8 @@
 This course covers the basics of machine learning. Here is a list of 14 lectures with videos for the class.
 This Lectures were taught and recorded by Zeyad Hailat.
 
+[For the applied part and Python code for the methods please refer to the Python Tutorial here.](https://github.com/zhailat/Introduction-to-machine-learning-Python/blob/master/README.md)
+
 ## Lecture 01 - Introduction to Machine Learning
 [Youtube Video](https://www.youtube.com/watch?v=82LjjOeDS7E&feature=youtu.be)
 
