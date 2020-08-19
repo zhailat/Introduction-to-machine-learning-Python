@@ -4,8 +4,7 @@ Introduction to Machine Learning course with Python Code.
 
 # Python for Machine Learning and Data Science
 
-## Part 01 - Anaconda and Python for Machine Learning
-https://www.youtube.com/watch?v=1mtmbjDc0mw&list=PLcfzmIJxFAppcrFXvjuG-jKM-oBHj6tu4&index=1
+## Part 01 - Anaconda and Python for Machine Learning [YouTube Video](https://www.youtube.com/watch?v=1mtmbjDc0mw&list=PLcfzmIJxFAppcrFXvjuG-jKM-oBHj6tu4&index=1)
 
 
 ## Part 02 - Python Tutorial - pandas and data preprocessing
