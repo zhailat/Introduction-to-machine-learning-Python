@@ -18,23 +18,20 @@ The files for the examples are available above.
 ### Part 04 - Logistic Regression with Python
 [YouTube Video](https://www.youtube.com/watch?v=fm-WSWCcQfE&list=PLcfzmIJxFAppcrFXvjuG-jKM-oBHj6tu4&index=4)
 
-### Part 05 - Neural Network Models - Regression models with Python (Tensorflow & Keras)
+### Part 05 - Constructing a Neural Network Models - Regression model with Python (Tensorflow & Keras)
 [YouTube Video](https://www.youtube.com/watch?v=2p-dM0czPEw&list=PLcfzmIJxFAppcrFXvjuG-jKM-oBHj6tu4&index=5)
 
-### Part 06 - Constructing a Binary Classifier Using SVM with Python
-[YouTube Video](https://www.youtube.com/watch?v=YiErsgx-7Tk&list=PLcfzmIJxFAppcrFXvjuG-jKM-oBHj6tu4&index=8)
-
+### Part 06 - Constructing a Binary Classifier Using Neural Network with Python (Tensorflow & Keras)
+[YouTube Video](https://www.youtube.com/watch?v=4ZhnXxfW8WQ&list=PLcfzmIJxFAppcrFXvjuG-jKM-oBHj6tu4&index=6)
 
 ### Part 07 - Constructing a Multi-Class Classifier Using Neural Network with Python (Tensorflow & Keras)
 [YouTube Video](https://www.youtube.com/watch?v=2WdPdE2hq78&list=PLcfzmIJxFAppcrFXvjuG-jKM-oBHj6tu4&index=9)
 
-
-### Part 08 - Constructing a Binary Classifier Using Neural Network with Python (Tensorflow & Keras)
-[YouTube Video](https://www.youtube.com/watch?v=4ZhnXxfW8WQ&list=PLcfzmIJxFAppcrFXvjuG-jKM-oBHj6tu4&index=6)
+### Part 08 - Constructing a Binary Classifier Using SVM with Python
+[YouTube Video](https://www.youtube.com/watch?v=YiErsgx-7Tk&list=PLcfzmIJxFAppcrFXvjuG-jKM-oBHj6tu4&index=8)
 
 ### Part 09 - Constructing Multi-Class Classifier Using SVM with Python
 [YouTube Video](https://www.youtube.com/watch?v=Zj1CoJk2feE&list=PLcfzmIJxFAppcrFXvjuG-jKM-oBHj6tu4&index=7)
-
 
 ### Part 10 - Dimensionality Reduction - Principal Component Analysis using Python
 [YouTube Video](https://www.youtube.com/watch?v=TZv46JQulWw&list=PLcfzmIJxFAppcrFXvjuG-jKM-oBHj6tu4&index=10)
