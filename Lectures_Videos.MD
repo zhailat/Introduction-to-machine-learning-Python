@@ -1,4 +1,4 @@
-# Introduction to Machine Learning - Full course.
+# Introduction to Machine Learning - Full Course.
 This course covers the basics of machine learning. Here is a list of 14 lectures with videos for the class.
 This Lectures were taught and recorded by Zeyad Hailat.
 
