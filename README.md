@@ -2,6 +2,8 @@
 This is an "Introduction to Machine Learning Course with Python". This course is prepared and recorded by Zeyad Hailat, Ph.D.
 The files for the examples are available above.
 
+(For the Theory part of the course, feel free to refer to the recordings of the video lectures here.)[Lectures_Videos.MD]
+
 # Python for Machine Learning and Data Science
 
 ### Part 01 - Anaconda and Python for Machine Learning.
