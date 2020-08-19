@@ -15,7 +15,7 @@ The files for the examples are available above.
 ### Part 03 - Linear Regression with Python
 [YouTube Video](https://www.youtube.com/watch?v=nEMNHFyVAaI&list=PLcfzmIJxFAppcrFXvjuG-jKM-oBHj6tu4&index=3)
 
-### Part 04 - Logistice Regression with Python
+### Part 04 - Logistic Regression with Python
 [YouTube Video](https://www.youtube.com/watch?v=fm-WSWCcQfE&list=PLcfzmIJxFAppcrFXvjuG-jKM-oBHj6tu4&index=4)
 
 ### Part 05 - Neural Network Models - Regression models with Python (Tensorflow & Keras)
