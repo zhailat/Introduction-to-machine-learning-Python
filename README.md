@@ -18,7 +18,7 @@ The files for the examples are available above.
 ### Part 04 - Logistice Regression with Python
 [YouTube Video](https://www.youtube.com/watch?v=fm-WSWCcQfE&list=PLcfzmIJxFAppcrFXvjuG-jKM-oBHj6tu4&index=4)
 
-### Part 05 - Python - Neural Network Models - Regression models with Python (Tensorflow & Keras)
+### Part 05 - Neural Network Models - Regression models with Python (Tensorflow & Keras)
 [YouTube Video](https://www.youtube.com/watch?v=2p-dM0czPEw&list=PLcfzmIJxFAppcrFXvjuG-jKM-oBHj6tu4&index=5)
 
 ### Part 06 - Constructing a Binary Classifier Using SVM with Python
