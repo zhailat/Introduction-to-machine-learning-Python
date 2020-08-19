@@ -1,6 +1,5 @@
-# Introduction-to-machine-learning-Python
-Introduction to Machine Learning course with Python Code.
-
+# Introduction to Machine Learning course with Python
+This is an "Introduction to Machine Learning Course with Python". This course is prepared and recorded by Zeyad Hailat, Ph.D.
 
 # Python for Machine Learning and Data Science
 
@@ -42,6 +41,9 @@ Introduction to Machine Learning course with Python Code.
 ### Part 11 - Unsupervised Learning - Clustering - Video
 [YouTube Video](https://www.youtube.com/watch?v=b519wHt28_E&list=PLcfzmIJxFAppcrFXvjuG-jKM-oBHj6tu4&index=11)
 
+
+
+Please feel free to contact the author for any comments/suggestions/feedback.
 
 
 
